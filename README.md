@@ -1,4 +1,10 @@
-### Hi there 👋
+##Derick 1ºA '-'
+#Estudante do JK
+#Gosto de esportes
+#Gosto de jogos online
+#Gosto de músicas
+
+
 
 <!--
 **Darykiii/Darykiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
