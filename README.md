@@ -1,9 +1,13 @@
   ##Derick 1ºA '-'
+  ##derick.farineli@escola.pr.gov.br
+  
   #Estudante do JK
   #Gosto de esportes
   #Gosto de jogos online
   #Gosto de músicas
   #Gosto de animes
+
+ 
 
 ![image](https://user-images.githubusercontent.com/110929010/185453421-b5bdcc67-7a53-4ea9-9bc7-14ae6f0c6809.png)
 
