@@ -1,4 +1,4 @@
-  ##Derick 1ºA '-'
+  ##Derick 3ºB '-'
   ##derick.farineli@escola.pr.gov.br
   
   #Estudante do JK
